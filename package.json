@@ -2,6 +2,7 @@
   "name": "pi-thinking-only-guard",
   "version": "0.1.0",
   "description": "Auto-recover trapped tool calls from thinking blocks for Qwen3.6 and similar models",
+  "keywords": ["pi-package", "pi-coding-agent", "qwen", "thinking"],
   "license": "MIT",
   "repository": {
     "type": "git",
