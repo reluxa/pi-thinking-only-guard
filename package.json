@@ -1,0 +1,13 @@
+{
+  "name": "pi-thinking-only-guard",
+  "version": "0.1.0",
+  "description": "Auto-recover trapped tool calls from thinking blocks for Qwen3.6 and similar models",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reluxa/pi-thinking-only-guard.git"
+  },
+  "pi": {
+    "extensions": ["./thinking-only-guard.ts"]
+  }
+}
